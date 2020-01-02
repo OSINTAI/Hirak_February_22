@@ -9,7 +9,6 @@
 
     cd Hirak_February_22
     git pull
-![DZ](https://github.com/azermane/Hirak_22_February/blob/master/Algeria.ico) 
 <h3 align="center">Algeria - Hirak of February 22</h3>
 
 ***
