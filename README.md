@@ -5,7 +5,7 @@
 <h5 dir="rtl" align="center">:arrow_double_down: للتحميل :arrow_double_down:</h5>
 
     git clone https://github.com/azermane/Hirak_February_22.git
-<h5 dir="rtl" align="center">:arrow_double_down: للتحديث :arrow_double_down:</h5>
+<h5 dir="rtl" align="center">:arrows_counterclockwise: للتحديث :arrows_counterclockwise:</h5>
 
     cd Hirak_February_22
     git pull
@@ -17,7 +17,7 @@
 <h5 align="center">:arrow_double_down: Clone or download the repository :arrow_double_down:</h5>
 
     git clone https://github.com/azermane/Hirak_February_22.git
-<h5 align="center">:arrow_double_down: Update the repository :arrow_double_down:</h5>
+<h5 align="center">:arrows_counterclockwise: Update the repository :arrows_counterclockwise:</h5>
 
     cd Hirak_February_22
     git pull
