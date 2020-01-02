@@ -2,11 +2,11 @@
 
 <h5 dir="rtl">يهدف هذا المشروع إلى إنشاء أرشيف للحراك في الجزائر بالاعتماد على استخراج البيانات من منصات التواصل الاجتماعي.</h5>
 
-<h5 dir="rtl">:arrow_double_down: للتحميل :arrow_double_down:</h5>
+<h5 dir="rtl" align="center">:arrow_double_down: للتحميل :arrow_double_down:</h5>
 
     git clone https://github.com/azermane/Hirak_22_February.git
 
-<h5 dir="rtl">:arrow_double_down: للتحديث :arrow_double_down:</h5>
+<h5 dir="rtl" align="center">:arrow_double_down: للتحديث :arrow_double_down:</h5>
 
     cd Hirak_22_February
     git pull
@@ -18,11 +18,11 @@
 ***
 
 ##### This projects aims to create an archive of the "hirak" in Algeria. The data is extracted from social media platforms.
-<h5>:arrow_double_down: Clone or download the repository :arrow_double_down:</h5>
+<h5 align="center">:arrow_double_down: Clone or download the repository :arrow_double_down:</h5>
 
     git clone https://github.com/azermane/Hirak_22_February.git
 
-<h5>:arrow_double_down: Update the repository :arrow_double_down:</h5>
+<h5 align="center">:arrow_double_down: Update the repository :arrow_double_down:</h5>
 
     cd Hirak_22_February
     git pull
