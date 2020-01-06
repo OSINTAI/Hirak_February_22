@@ -16,9 +16,7 @@
 ***
 
 ##### This projects aims to create an archive of the "hirak" in Algeria. The data is extracted from social media platforms.
-
-<h5 dir="rtl">Repo size: 725 Mo
-
+##### Repo size: 725 Mo
 <h5 align="center">:arrow_double_down: Clone or download the repository :arrow_double_down:</h5>
 
     git clone https://github.com/azermane/Hirak_February_22.git
